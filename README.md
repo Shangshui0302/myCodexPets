@@ -1,10 +1,10 @@
 # My Codex Pets
 
-Two Codex-compatible animated pets, drawn as Japanese anime-style chibi stickers and packaged with the v2 pet contract.
+Two Codex-compatible animated pixel-art pets, packaged with the v2 pet contract and designed to feel like quiet desktop companions.
 
 ## 安和昴
 
-A shy, warm-hearted companion with charcoal bobbed hair, violet eyes, and a mint striped bow.
+A shy, warm-hearted school-uniform companion with charcoal bobbed hair, violet eyes, and a mint striped bow. Her ambient animations include drinking coffee, writing in a notebook, and reading a book.
 
 ![安和昴 animation contact sheet](previews/an-he-mao-contact-sheet.png)
 
@@ -12,7 +12,7 @@ A shy, warm-hearted companion with charcoal bobbed hair, violet eyes, and a mint
 
 ## 山田凉
 
-A calm blue-haired companion with glasses and white headphones. Her coffee cup appears only in waiting and active-work animations.
+A calm blue-haired companion with glasses, white headphones, a black T-shirt, and white denim shorts. Her ambient animations include drinking coffee, using a laptop, and drawing with a pen tablet.
 
 ![山田凉 animation contact sheet](previews/yamada-ryo-contact-sheet.png)
 
@@ -24,6 +24,7 @@ A calm blue-haired companion with glasses and white headphones. Her coffee cup a
 - 8 × 11 WebP sprite atlas per pet
 - Nine standard animation rows
 - Sixteen clockwise look directions
+- Purpose-built companion actions for waiting, working, and reviewing
 - Transparent backgrounds and validated cell boundaries
 - Original reference images are not included in this repository
 
